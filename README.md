@@ -1,4 +1,4 @@
-# Guia de Estudo - Superando o Medo de Falar Inglês
+# Superando o Medo de Falar Inglês
 Landing page profissional desenvolvida para o mentor Franco Leone Antunes.
 
 🔗 Site ao vivo: https://oimendes.github.io/superando-o-medo-de-falar-ingles/ 
